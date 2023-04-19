@@ -8,4 +8,8 @@ public class BowlingGameTest {
     public void succeed() {
 
     }
+    @Test
+    public void create_game() {
+        var g = new Game();
+    }
 }
