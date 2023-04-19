@@ -6,3 +6,4 @@ public class BowlingMain {
         System.out.println("Bowling");
     }
 }
+
